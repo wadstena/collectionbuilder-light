@@ -20,12 +20,12 @@ source-code: https://github.com/wadstena/collectionbuilder-light
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Psychiana Demo
+title: Vadstenaporträtt
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Materials related to the Psychiana religion popular in the 1930s and 40s
+tagline: En samling portätt från 1800-talets Vadstena
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection includes audio, textual, and image files from the Psychiana collection at the University of Idaho Library"
+description: "En unik samling visitkort från Föreningen Gamla Vadstena visar stadens invånare under 1860-tal till 1890-tal"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Wadstena
 

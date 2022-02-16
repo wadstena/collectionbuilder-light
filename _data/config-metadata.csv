@@ -4,11 +4,10 @@ date_lifespan,Levnadsår,,
 occupation,Yrke/titel,true,
 creator,Fotograf,true,
 date_certain,Fotoår,
-baksida,Baksida,,true
 description,Beskrivning,,
 subject,Subjects,true,
 location,Ort,,
 source,Källa,,
 identifier,Reg nr,,
 rights,Ägare,,
-rightsstatement,Rights Statement,,false
+rightsstatement,Rättighet,,false

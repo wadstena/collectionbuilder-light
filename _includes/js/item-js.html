@@ -77,17 +77,6 @@
                 selector: '.gallery-img'
             });
         }
-         
-         /* add content to item display area */
-        document.getElementById("item-image").innerHTML = itemImage;
-        document.getElementById("item-link").innerHTML = itemLink;
-        
-        /* trigger lightGallery for images */
-        if (format.includes('image')) {
-            $("#item-image").lightGallery({
-                selector: '.gallery-img'
-            });
-        }
 
         /* add item metadata */
         var fields = '<dl>';
